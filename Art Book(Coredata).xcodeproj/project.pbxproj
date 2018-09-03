@@ -13,6 +13,7 @@
 		4EB552A821386899006C5AFF /* Art_Book_Coredata_.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4EB552A621386898006C5AFF /* Art_Book_Coredata_.xcdatamodeld */; };
 		4EB552AA213868AA006C5AFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EB552A9213868AA006C5AFF /* Assets.xcassets */; };
 		4EB552AD213868AA006C5AFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EB552AB213868AA006C5AFF /* LaunchScreen.storyboard */; };
+		4EB552B521387019006C5AFF /* CreatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB552B421387019006C5AFF /* CreatVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4EB552A9213868AA006C5AFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EB552AC213868AA006C5AFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EB552AE213868AA006C5AFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EB552B421387019006C5AFF /* CreatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				4EB5529F21386893006C5AFF /* AppDelegate.swift */,
 				4EB552A121386893006C5AFF /* ViewController.swift */,
+				4EB552B421387019006C5AFF /* CreatVC.swift */,
 				4EB552A321386894006C5AFF /* Main.storyboard */,
 				4EB552A9213868AA006C5AFF /* Assets.xcassets */,
 				4EB552AB213868AA006C5AFF /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EB552B521387019006C5AFF /* CreatVC.swift in Sources */,
 				4EB552A221386893006C5AFF /* ViewController.swift in Sources */,
 				4EB552A021386893006C5AFF /* AppDelegate.swift in Sources */,
 				4EB552A821386899006C5AFF /* Art_Book_Coredata_.xcdatamodeld in Sources */,
